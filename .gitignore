@@ -1,8 +1,0 @@
-*
-
-!.gitignore
-!.gitmodules
-!*.go
-!README.txt
-!LICENSE
-!calyxOS-flasher*
